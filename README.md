@@ -180,6 +180,5 @@ It highlights the ability to:
 
 ---
 
-📬 *Feel free to explore the project files and analysis for more detail on the methodology and findings.*
 
 
