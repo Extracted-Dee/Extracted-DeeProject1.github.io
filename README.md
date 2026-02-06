@@ -1,4 +1,4 @@
-# Dymon's Portfolio 
+# 🏭 Manufacturing Defect Reduction Analysis Project
 
 <html>
 <body>
@@ -10,7 +10,7 @@
 </html>
 
 
-# 🏭 Manufacturing Defect Reduction Analysis Project 
+ 
 ### 📊 Quality Improvement in Electronic Board Production
 
 > A data-driven process improvement project focused on reducing welding defects while increasing production capacity in an electronics manufacturing facility.
@@ -79,10 +79,9 @@ The most frequent defects across the facility were:
 | 2️⃣ | **Excessive Solder**  | Affected solder joint quality |
 | 3️⃣ | **Missing Components**| Caused assembly/test failures |
 
+![Alt text](Entire Facility (2).png)
+
 👉 These three defect types became the primary focus for improvement efforts.
-
-<img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
-
 
 ---
 
@@ -94,19 +93,17 @@ The most frequent defects across the facility were:
 | 595481-00X-00        | Solder Bridges, Lifted Components, Wrong Components |
 | 595310-001-00        | Excessive Solder, Solder Bridges, Damaged Components |
 
+![Alt text](Model 595407-XXX-00.png)![Alt text](MODEL 595481-00X-00 (2).png)![Alt text](Model 595310-001-00.png)
+
 🔎 **Key Insight:**  
 **Solder Bridge defects appeared across nearly all models**, indicating a systemic process issue rather than a product-specific problem.
-
-<img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
 
 ---
 
 ## 🧠 Root Cause Analysis
 
 A Fishbone (Ishikawa) framework was used to categorize likely root causes.
-
-<img src="https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png" alt="alternatetext">
-
+![Alt text](fishbone diagram.png)
 
 ### ⚙️ Methods
 - Inconsistent soldering procedures  
@@ -185,27 +182,3 @@ It highlights the ability to:
 📬 *Feel free to explore the project files and analysis for more detail on the methodology and findings.*
 
 
-Other Projects
--------------
-
-<table>
-  <tr>
-    <th>ID</th><th>Project Two</th><th>Rank</th>
-  </tr>
-  <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
-  </tr>
-  <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
-  </tr>
-</table>
-
-Crazy linking action
---------------------
-
-I get 10 times more traffic from [Google] [1] than from
-[Yahoo] [2] or [MSN] [3].
-
-  [1]: http://google.com/        "Google"
-  [2]: http://search.yahoo.com/  "Yahoo Search"
-  [3]: http://search.msn.com/    "MSN Search"
