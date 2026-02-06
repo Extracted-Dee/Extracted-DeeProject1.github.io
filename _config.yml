@@ -1,4 +1,3 @@
-
 # Where things are
 source              : .
 destination         : ./_site
@@ -14,10 +13,10 @@ collections:
     output          : true
 
 theme: jekyll-theme-minimal
-logo: "https://www.cdc.gov/cove/media/images/2024/09/Bar-Chart-01.png"
+logo: "https://media.licdn.com/dms/image/v2/D4E35AQE9VYcN45A9LA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1732763016145?e=1770962400&v=beta&t=3HNb0FlqkmDmY_-bCzxhnRwvmzLrO5plRKnJc0xxEIQ"
 title: Dymon Harris
-description: Data Analyst <br>   | Predictive Analytics & Process Improvement | <br>   | Python • SQL • Data Visualization • Machine Learning |<br>    | Turning data into decisions that reduce risk, improve performance and profitability |
- <br><br><a href="https://www.linkedin.com/in/example/"><br><br>View My LinkedIn Please and thanks</a> 
+description: Data Analyst <br><br>    | Predictive Analytics & Process Improvement | <br>   | Python • SQL • Data Visualization • Machine Learning |<br>    | Turning data into decisions that reduce risk, improve performance and profitability |
+ <br><br>
   
 
 
